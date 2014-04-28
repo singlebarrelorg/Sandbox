@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -32,8 +32,20 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyClass.cs" />
+    <Compile Include="City.cs" />
+    <Compile Include="Clouds.cs" />
+    <Compile Include="Coordinate.cs" />
+    <Compile Include="Direction.cs" />
+    <Compile Include="Humidity.cs" />
+    <Compile Include="CurrentWeather.cs" />
+    <Compile Include="Precipitation.cs" />
+    <Compile Include="Pressure.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Speed.cs" />
+    <Compile Include="Sun.cs" />
+    <Compile Include="Temperature.cs" />
+    <Compile Include="Weather.cs" />
+    <Compile Include="Wind.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
