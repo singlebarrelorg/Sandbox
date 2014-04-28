@@ -93,4 +93,10 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessManagers\BusinessManagers.csproj">
+      <Project>{D5FF1861-476F-436D-9F5A-1F846900AA25}</Project>
+      <Name>BusinessManagers</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

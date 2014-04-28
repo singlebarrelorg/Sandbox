@@ -1,0 +1,5 @@
+/Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/bin/Debug/BusinessManagers.dll.mdb
+/Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/bin/Debug/BusinessManagers.dll
+/Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll
+/Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll.mdb

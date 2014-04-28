@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleBarrelWeather", "Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{6F3FBD37-B0E1-49B6-8E8B-229BB59D5A4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessManagers", "BusinessManagers\BusinessManagers.csproj", "{D5FF1861-476F-436D-9F5A-1F846900AA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleBarrelCommon", "SingleBarrelCommon\SingleBarrelCommon.csproj", "{D2E08B02-8643-4DF1-AE9E-27856AC4C65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,20 @@ Global
 		{6F3FBD37-B0E1-49B6-8E8B-229BB59D5A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3FBD37-B0E1-49B6-8E8B-229BB59D5A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F3FBD37-B0E1-49B6-8E8B-229BB59D5A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E08B02-8643-4DF1-AE9E-27856AC4C65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E08B02-8643-4DF1-AE9E-27856AC4C65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E08B02-8643-4DF1-AE9E-27856AC4C65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E08B02-8643-4DF1-AE9E-27856AC4C65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF1861-476F-436D-9F5A-1F846900AA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF1861-476F-436D-9F5A-1F846900AA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF1861-476F-436D-9F5A-1F846900AA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF1861-476F-436D-9F5A-1F846900AA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
