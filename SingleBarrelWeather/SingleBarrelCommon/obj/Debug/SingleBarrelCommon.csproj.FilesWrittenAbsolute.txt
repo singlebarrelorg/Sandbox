@@ -5,3 +5,10 @@
 /Users/ryanscherer/Projects/SingleBarrelWeather/SingleBarrelCommon/obj/Debug/SingleBarrelCommon.dll.mdb
 /Users/ryanscherer/Projects/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/DataStructures.dll
 /Users/ryanscherer/Projects/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/DataStructures.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/SingleBarrelCommon.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/SingleBarrelCommon.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/obj/Debug/SingleBarrelCommon.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/obj/Debug/SingleBarrelCommon.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/DataStructures.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/SingleBarrelCommon/bin/Debug/DataStructures.dll.mdb

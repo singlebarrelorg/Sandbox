@@ -3,3 +3,8 @@
 /Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/bin/Debug/BusinessManagers.dll
 /Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll
 /Users/ryanscherer/Projects/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/BusinessManagers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/BusinessManagers/bin/Debug/BusinessManagers.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/BusinessManagers/bin/Debug/BusinessManagers.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/BusinessManagers/obj/Debug/BusinessManagers.dll.mdb

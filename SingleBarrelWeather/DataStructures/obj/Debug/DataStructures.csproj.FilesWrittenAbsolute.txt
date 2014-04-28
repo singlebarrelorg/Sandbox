@@ -3,3 +3,8 @@
 /Users/ryanscherer/Projects/SingleBarrelWeather/DataStructures/bin/Debug/DataStructures.dll
 /Users/ryanscherer/Projects/SingleBarrelWeather/DataStructures/obj/Debug/DataStructures.dll
 /Users/ryanscherer/Projects/SingleBarrelWeather/DataStructures/obj/Debug/DataStructures.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/DataStructures/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/DataStructures/bin/Debug/DataStructures.dll.mdb
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/DataStructures/bin/Debug/DataStructures.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/DataStructures/obj/Debug/DataStructures.dll
+/Users/ryanscherer/Repositories/Sandbox/SingleBarrelWeather/DataStructures/obj/Debug/DataStructures.dll.mdb
